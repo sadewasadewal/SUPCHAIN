@@ -183,3 +183,12 @@ Consider using:
 1. **Backend Development**: Changes to `backend/app/` trigger automatic reload
 2. **Frontend Development**: Vite's HMR provides instant updates
 3. **Model Updates**: Train.py can be run independently; model artifacts are cached
+
+
+<img width="1280" height="662" alt="image" src="https://github.com/user-attachments/assets/0feebaee-cd09-42b9-a504-0af5b82b2dec" />
+
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/18b21641-1466-4c96-9c45-c8d92f4fb43b" />
+
+<img width="1280" height="660" alt="image" src="https://github.com/user-attachments/assets/7db5d0cb-9832-4312-8c92-d418f565caed" />
+
+
